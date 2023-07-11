@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 100wh;
+    height: 10vh;
+    border: 1px solid black;
+    display: flex;
+}
+
+.navbar--link ul{
+    display: inline-block;
+}
+

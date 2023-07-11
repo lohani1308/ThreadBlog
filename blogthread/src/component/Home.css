@@ -1,0 +1,11 @@
+.home--page{
+    display: flex;
+}
+
+.blogs--section{
+   flex: 3;
+}
+
+.aside--section{
+    flex:1;
+}
