@@ -11,7 +11,20 @@
     display: flex;
 }
 
-.navbar--link ul{
-    display: inline-block;
+.navbar--link {
+    flex: 2; 
 }
 
+.navbar--link ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.search--blog{
+    flex:1;
+}
+
+.profile--logo{
+    flex: 1;
+}

@@ -1,0 +1,21 @@
+.add--blog{
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+}
+
+.add--blog textarea{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.btn{
+    height: 3rem;
+    width: 8rem;
+    background-color: rgb(52, 52, 195);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
