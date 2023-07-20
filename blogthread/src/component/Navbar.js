@@ -3,7 +3,7 @@ import './navbar.css';
 import { Link } from 'react-router-dom';
 
 function Navbar() {
-  const navbarSection=['Home','AddBlog','Contact'];
+  const navbarSection=['Home','AddBlog','Contact','Register'];
 
   const [search,setSearch]=useState();
 
